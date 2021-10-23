@@ -18,7 +18,7 @@ You can read the detailed report of out work [here](https://github.com/AlessiaGu
 
 
 ## Tools
-We have used *TinyOS* for the executable code of the motes and *Cooja* for their simulation, in particular we have used the _nesC_ language.
+We have used *TinyOS* for the executable code of the motes and *Cooja* for their simulation, in particular we have written code using the _nesC_ language.
 
 
 ## Collaborators
