@@ -2,7 +2,6 @@
 ## Table of Contents
 1. [General Information](#general-info)
 2. [Tools](#tools)
-#3. [How to simulate the project](#How-to-simulate-the project)
 4. [Collaborators](#collaboration)
 
 
@@ -20,8 +19,6 @@ You can read the detailed report of out work [here](https://github.com/AlessiaGu
 
 ## Tools
 We have used *TinyOS* for the executable code of the motes and *Cooja* for their simulation, in particular we have used the _nesC_ language.
-
-### How to simulate the project
 
 
 ## Collaborators
