@@ -7,7 +7,7 @@
 
 ## General Information
 This is our work for the project of Internet of Things course of the 2020-2021 academic year.
-The task of this project is to create a series of light patterns on a system consisting of 1 controller node and 9 “smart light” nodes, set up in the following structure. 
+The task of this project is to create a series of light patterns on a system consisting of 1 controller node and 9 “smart light” nodes, set up in a tree structure. 
 We have decided to use the following three patterns:
 * Triangle
 * Cross
